@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "nicolas-lum",
+        "url": "http://github.com/nicolas-lum"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "nicolaslum",
+        "url": "http://linkedin.com/in/nicolaslum"
       },
       {
         "network": "twitter",
