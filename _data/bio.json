@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "nicolaslum",
-        "url": "http://linkedin.com/in/nicolaslum"
+        "url": "http://linkedin.com/in/nicolas-lum"
       },
       {
         "network": "twitter",
@@ -65,8 +65,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML/CSS"
       ]
     },
     {
@@ -77,16 +77,16 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Unix"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
