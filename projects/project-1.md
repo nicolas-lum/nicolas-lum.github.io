@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/auto-playlist-1.jpg
-title: Micromouse
+title: auto-playlist
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
