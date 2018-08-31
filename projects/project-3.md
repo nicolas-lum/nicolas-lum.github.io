@@ -21,5 +21,5 @@ Enter a date with the following: DAY MONTH YEAR
 On 12/3/1996 The day of the week is: Sunday
 
 
-Source: <a href="https://github.com/nicolas-lum/GetDay"><i class="small github icon ">
+Source: https://github.com/nicolas-lum/GetDay
 
