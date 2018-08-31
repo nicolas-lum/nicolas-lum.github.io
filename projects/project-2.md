@@ -20,3 +20,6 @@ This project is a simple website created in HTML using CSS Templates. It's purpo
 <div class="ui small rounded images">
   <img class="ui image" src="https://github.com/nicolas-lum/nicolas-lum.github.io/blob/master/images/intro-bg.jpg?raw=true">
 </div>
+
+
+source: https://github.com/nicolas-lum/GetDay
