@@ -6,10 +6,9 @@ title: The Origin of i
 date: 2018-08-30
 labels:
   - Software Engineering
-  - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/typing.jpeg">
+<img class="ui tiny left circular floated image" src="nicolas-lum.github.io/images/typing.jpeg">
 
 For as long as I can remmeber I have been playing video games on the PC. From the days of Doom to even today. My first recollection of playing a game on the PC was a kids game designed to practice your arithmetic. My Dad had bought it for me as a way to learn how to add and subtract quickly.I thought it was the most entertaining thing in the world, of course I didn't know of anything else at the time. However, over the years I've played alot of various video games on the PC, most of them were RPGs or Role Playing Games. Most of the time these games required a great deal of time to progress in the game. I found that the most time consuming activity was harvesting resources or "farming". 
 
