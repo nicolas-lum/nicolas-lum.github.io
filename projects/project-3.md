@@ -11,7 +11,7 @@ labels:
 summary: A program that tells you the day of the week of any date.
 ---
 
-<img class="ui image" src="nicolas-lum.github.io/images/day.jpeg">
+<img class="ui image" src="https://github.com/nicolas-lum/nicolas-lum.github.io/blob/master/images/day.jpeg">
 
 The program will tell you the day of the week given any date. It even takes leap years into account.
 As an example
