@@ -1,7 +1,9 @@
 ---
 layout: project
 type: project
-image: images/intro-bg.jpg
+image: 
+      nicolas-lum.github.io/images/intro-bg.jpg
+    
 title: 
 permalink: projects/nic-ing-Around
 # All dates must be YYYY-MM-DD format!
