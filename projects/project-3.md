@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/day.jpeg
-title: Cotton
-permalink: projects/cotton
+title: GetDay
+permalink: projects/GetDay
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-18
 labels:
