@@ -22,4 +22,4 @@ This project is a simple website created in HTML using CSS Templates. It's purpo
 </div>
 
 
-source: https://github.com/nicolas-lum/GetDay
+source: https://github.com/nicolas-lum/Nic-ing-Around
