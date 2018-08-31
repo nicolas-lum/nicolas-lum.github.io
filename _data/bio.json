@@ -26,15 +26,11 @@
         "url": "https://www.linkedin.com/in/nicolas-lum-33985a98/"
       },
       {
-        "network": "techHui",
+        "network": "techhui",
         "username": "NicolasCLum",
         "url": "http://www.techhui.com/profile/NicolasCLum"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
+      
     ]
   },
   "interests": [
@@ -102,57 +98,8 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "summary": "Math tutoring for students using the Mathnasium method",
-      "highlights": [
-        ""
+
         
       ]
-    },
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-        
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        "W"
-      ]
     }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+ 
