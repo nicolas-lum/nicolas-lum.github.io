@@ -4,7 +4,7 @@ type: project
 image: 
       nicolas-lum.github.io/images/intro-bg.jpg
     
-title: 
+title: nic-ing-Around
 permalink: projects/nic-ing-Around
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-10
