@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Skinny on Javascript and it's Apllication on Software Engineering.
+title: The Current State of my Opinion of Javascript.
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
