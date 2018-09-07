@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Itching to ask
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
@@ -13,13 +13,9 @@ As someone who likes to dabble around within the hacker community I bear witness
 
 So, what exactly is a “bad” question or a “good” question for that matter? A “good” question is one that is already attempted. There is no shame in needing external help once in a while. However, asking another for help should be a last resort and not a first. What the difference essentially boils down to is if you have exhausted other options already. Here is a list of general questions you should ask yourself before posting to a forum; Did you already attempt it? Did you search to see if someone else has had the same question? Have you tried the google? What is the meaning of life? Ok, the last one might be a little unnecessary. In all seriousness you should have done all the footwork necessary before asking a question.
 
-## In the context of programming
+## A good question
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+The Poster makes it clear that this is a subject he not well versed in but also makes it known what sort of relevant experience he has had. Having this knowledge on hand cut down on the amount assumptions or lack therefore of the answering party has to make. The Poster also makes it clear he is willing to learn in detail. The Poster has made it known that he has put a lot of thought into his question and the responses reply in kind. The question itself is not all that complex. Contrarily, it’s a beginner level question. This proves that any question can be a good question if asked in a right way.
 
 ## In the context of engineering
 
