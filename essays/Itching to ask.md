@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A smart dumb way or a dumb smart way.
+title: Itching to ask
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-6
 labels:
