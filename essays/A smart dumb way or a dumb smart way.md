@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Learning
   - Asking Questions
-  - How to:
 ---
 As someone who likes to dabble around within the hacker community I bear witness to a myriad of questions. Well what kind of questions might a person need to ask a hacker community. The answer, it really doesn’t matter. I have seen questions from people with no technical knowledge to industry professionals. A dumb question is only a dumb question if asked in a dumb way.
 
