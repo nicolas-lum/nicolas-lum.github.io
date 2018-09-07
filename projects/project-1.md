@@ -49,7 +49,8 @@ Below is an example of parsing a given YouTube channel URL and scraping the link
 ```
 
 You can learn more at the Beautiful soup library:[https://www.crummy.com/software/BeautifulSoup/bs4/doc/](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
-as well as the YouTube API developer website:[https://developers.google.com/youtube/](https://developers.google.com/youtube/)
+
+YouTube API developer website:[https://developers.google.com/youtube/](https://developers.google.com/youtube/)
 
 
 source:[https://github.com/nicolas-lum/auto-playlist](https://github.com/nicolas-lum/auto-playlist)
