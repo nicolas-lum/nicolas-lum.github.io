@@ -52,4 +52,4 @@ You can learn more at the Beautiful soup library (https://www.crummy.com/softwar
 as well as the YouTube API developer website (https://developers.google.com/youtube/)
 
 
-source:(https://github.com/nicolas-lum/auto-playlist)
+source:[(https://github.com/nicolas-lum/auto-playlist)]
