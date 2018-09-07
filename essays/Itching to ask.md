@@ -3,20 +3,15 @@ layout: essay
 type: essay
 title: The difficult things will always be difficult
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2018-09-06
 labels:
   - Engineering
 ---
 
 
+As someone who likes to dabble around within the hacker community I bear witness to a myriad of questions. Well what kind of questions might a person need to ask a hacker community. The answer, it really doesn’t matter. I have seen questions from people with no technical knowledge to industry professionals. A dumb question is only a dumb question if asked in a dumb way.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+So, what exactly is a “bad” question or a “good” question for that matter? A “good” question is one that is already attempted. There is no shame in needing external help once in a while. However, asking another for help should be a last resort and not a first. What the difference essentially boils down to is if you have exhausted other options already. Here is a list of general questions you should ask yourself before posting to a forum; Did you already attempt it? Did you search to see if someone else has had the same question? Have you tried the google? What is the meaning of life? Ok, the last one might be a little unnecessary. In all seriousness you should have done all the footwork necessary before asking a question.
 
 ## In the context of programming
 
