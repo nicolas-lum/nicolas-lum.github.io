@@ -18,7 +18,7 @@ In terms of creating a basic script such as updating a git repository or the aut
 
 When comparing my experience with JavaScript and my experience with C++ I have to say, I much prefer C++. I see the benefits of JavaScript such as the ability to store variables as strings or numbers, but not declaring any primitive data types or not having to typecast makes me a little uncomfortable. Maybe this is a problem that will solve itself the more I use JavaScript.
 
-## Could be better
+## The good the bad and the JavaScript
 As far as how "good" or "bad" JavaScript is from a software engineering point of view, I find it really comes down to what kind of project I am doing. For something relatively simple and not memory sensitive then JavaScript would seem like a choice on par with Java. If however, I wanted to build something that is designed to have large scalability, I do not think JavaScript would be the most optimal choice.
 
 ## Programming Athleticism
