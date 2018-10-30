@@ -19,13 +19,13 @@ The solution: An application that allows students to see all planned events and 
 Once all the event information is gathered put them into a list of events alongside an option for additional information. 
 An admin is able to edit, add, or delete events
 
-#Mockup page list:
+# Mockup page list:
 - Landing page
 - Additional information page
 - Calender
 - Admin page
 
-#Beyond the basics
+# Beyond the basics
 - Google calender
 - Notify students via email about upcoming events
 - Facebook "I'm going to this event" integration
