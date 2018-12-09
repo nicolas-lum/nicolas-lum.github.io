@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hotfix-homepage.png
+image: images/hotfix-logo.png
 title: UHM-Hotfix
 permalink: projects/auto-playlists
 # All dates must be YYYY-MM-DD format!
@@ -34,4 +34,8 @@ I designed the logo as well as helped define the database schema. Alot of my tim
 Link to the repo.
 https://github.com/uhm-hotfix/uhm-hotfix
 
+Vist our site homesite!
 https://uhm-hotfix.github.io/
+
+Try it out!
+http://uhm-hotfix.meteorapp.com/#/
