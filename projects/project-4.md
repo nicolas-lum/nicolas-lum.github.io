@@ -13,7 +13,7 @@ labels:
 summary: A basic web application that allows students to report issues around the University of Hawaii at Manoa campus.
 ---
 
-<div class="ui small rounded images">
+<div >
   <img class="ui image" src="../images/hotfix-home.png">
 </div>
 
