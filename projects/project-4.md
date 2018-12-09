@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hotfix-logo.png
 title: UHM-Hotfix
-permalink: projects/auto-playlists
+permalink: projects/UHM-Hotfix
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-01
 labels:
