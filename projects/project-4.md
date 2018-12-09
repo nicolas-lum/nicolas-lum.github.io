@@ -13,6 +13,10 @@ labels:
 summary: A basic web application that allows students to report issues around the University of Hawaii at Manoa campus.
 ---
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/hotfix-home.png">
+</div>
+
 # What does it do?
 Hotfix allows students to self report any issues around campus. Issues like a broken door, or a broken toilet,
 or anything else that might need a "hotfix".
